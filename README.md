@@ -1,4 +1,3 @@
-
 #include <Keypad.h>             // Include biblioteca Keypad pentru tastatura
 #include <Servo.h>              // Include biblioteca Servo pentru controlul servo-motorului
 #include <TM1637Display.h>      // Include biblioteca TM1637Display pentru afisajul cu 7 segmente
